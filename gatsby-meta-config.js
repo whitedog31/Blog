@@ -1,7 +1,7 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `하얀늑대의 기술 블로그`,
   description: `Blog posted about ...`,
-  author: `[Your Name]`,
+  author: `Minsu`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
@@ -26,5 +26,5 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: '', // Add your google analytics tranking ID
+  ga: 'test', // Add your google analytics tranking ID
 }
