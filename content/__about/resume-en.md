@@ -40,7 +40,7 @@ Github : https://github.com/whitewolf23
 
 1. 모두의 캠퍼스 웹페이지 리뉴얼
    - 개발언어 및 플랫폼 : Javascript(ES6)
-   - 라이브러리 및 프레임워크 : React, Redux-thunk, Immutable.js, redux-pender,
+   - 라이브러리 및 프레임워크 : React, Redux-thunk, Immutable.js, redux-pender
    - Tool / DevOps: 없음
    - 업무내용:
      - 기존 PHP Codeignitor 웹페이지를 새롭게 React를 이용한 웹페이지 기획
@@ -50,12 +50,13 @@ Github : https://github.com/whitewolf23
 
 # Project
 
-### **(주) 비트플로(**2020. 10.27 ~ 11.10 **) | 2주**
+### (주) 비트플로(**2020. 10.27. ~ 11.10. **) | 2주
 
 1. OneSongTwoShow - LandingPage 개발
    - 개발언어 및 플랫폼 : Javascript(ES6)
    - 라이브러리 및 프레임워크 : React, Redux-thunk, Material-UI, React-helmet, Ngrok, Axios, React-player
    - Tool / DevOps: 없음
+   - 업무 내용:
      - ReactPlayer 라이브러리를 이용한 mp4 영상 플레이 기능 구현
      - VideoId에 따른 VideoType에 따라 VideoPlayer Component를 따로 구성
      - Redux와 Redux Thunk를 이용한 상태 관리 기능 구현
@@ -64,6 +65,7 @@ Github : https://github.com/whitewolf23
 ### (주) 에프터바이(2020. 08. 05 ~ 10. 12) | 2개월
 
 1. 애프터바이 백오피스 차트 기능 구현 및 유지 보수
+
    - 개발 언어 및 플랫폼 : Javascript(ES6), Typescript, Python
    - 라이브러리 및 프레임워크 : React, Redux, React-saga, AntDesign, Axios, Chart.js,
    - Tool / DevOps: Travis CI/CD, MySQL
@@ -87,21 +89,24 @@ Github : https://github.com/whitewolf23
 
 2. React를 이용한 Backoffice 페이지 기능 구현
 
-- 개발 언어 및 플랫폼 : Javascript(ES6), JSX
-- 라이브러리 및 프레임워크 : React, Axios, Material-UI, Node.js
-- Tool / DevOps: 없음
-- 업무 내용:
-  - Material-UI를 이용한 빠른 컴포넌트 UI 구현
-  - Node.js를 이용한 관리자 api 기능 구현
-  - React Table을 이용한 다중, 개별 선택 actions 기능 구현
+   - 개발 언어 및 플랫폼 : Javascript(ES6), JSX
+   - 라이브러리 및 프레임워크 : React, Axios, Material-UI, Node.js
+   - Tool / DevOps: 없음
+   - 업무 내용:
+
+     - Material-UI를 이용한 빠른 컴포넌트 UI 구현
+     - Node.js를 이용한 관리자 api 기능 구현
+     - React Table을 이용한 다중, 개별 선택 actions 기능 구현
 
 ### (주)Vplate (2019. 04. 22 ~ 05. 22) | 1개월
 
-1. After Effect **렌더링 엔진 유지 보수 및 안정화**
+1. After Effect 렌더링 엔진 유지 보수 및 안정화
+
    - 개발 언어 및 플랫폼 : Javascript(ES6), JSX
    - 라이브러리 및 프레임워크 : Node.js, Socket.io
    - Tool / DevOps: AfterEffect
    - 업무 내용:
+
      - JSX 언어를 이용한 AfterEffect 자동 렌더링 기능 유지 보수
      - Child Process를 이용해서, Socket.io를 통해 로컬 컴퓨터 연동 구현
      - 기존 클라이언트 요청 후, 렌더링 실패 시 자동으로 리렌더링 기능이 존재하지 않음, 따라서, Mysql 스키마를 통해 status 필드를 만들어 저장 후 리렌더링 기능 구현
@@ -122,7 +127,7 @@ Github : https://github.com/whitewolf23
 
   2016 - 19기 Appjam - 분유 정보 서비스 " Mamma" → 최우수상 수상
 
-* SK - T아카데미 서버 전문가 과정 3기 - 수료
+- SK - T아카데미 서버 전문가 과정 3기 - 수료
 
   2016 - 해외 대행 구입 어플 "Sadajo" 서버 기획 및 개발
 
