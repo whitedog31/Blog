@@ -6,7 +6,7 @@ lang: 'en'
 
 # 경력기술서
 
-_Last updated : 2021. 02. 06_
+<div style="text-align: right"> <i>Last updated : 2021. 02. 06.</i> </div>
 
 KIM MIN SU (rnfprhf60@gmail.com)
 
@@ -18,7 +18,7 @@ Github : https://github.com/whitewolf23
 
 # Work Experiences.
 
-### (주) BBangya (2019.11.04 ~ 2020.02.28) | 4개월
+### (주) BBangya (2019.11 ~ 2020.02) | 4개월
 
 1. 빵야 TV 웹페이지 리뉴얼 (2020 1. 15 ~ 2. 26 | 2개월)
    - 개발언어 및 플랫폼 : Javascript(ES6)
@@ -34,7 +34,7 @@ Github : https://github.com/whitewolf23
      - EJS 엔진을 통해 Node.js에서 받은 데이터를 렌더링 후 UI 구현
      - pm2를 이용하여, EC2, CloudFront, Route53 배포
 
-### (주) 모두의 캠퍼스 (2017.08.14 ~ 2018 08.14) | 1년
+### (주) 모두의 캠퍼스 (2017. 08. ~ 2018. 08.) | 1년
 
 ---
 
@@ -122,7 +122,7 @@ Github : https://github.com/whitewolf23
 
   2016 - 19기 Appjam - 분유 정보 서비스 " Mamma" → 최우수상 수상
 
-- SK - T아카데미 서버 전문가 과정 3기 - 수료
+* SK - T아카데미 서버 전문가 과정 3기 - 수료
 
   2016 - 해외 대행 구입 어플 "Sadajo" 서버 기획 및 개발
 
@@ -134,11 +134,9 @@ Github : https://github.com/whitewolf23
 
 Front-End : React, Typescript, Javascript(ES6), Next.js, HTML. CSS
 
-Back-End : Node.js, Koa.js, AWS(EC2, S3, CloudFront)
+Back-End : Node.js, AWS(EC2, S3, CloudFront)
 
 Database: Mysql, MongoDB
-
-Application: Swift 4.0, Xcode
 
 # Education.
 
