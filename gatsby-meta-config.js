@@ -2,7 +2,7 @@ module.exports = {
   title: `하얀늑대의 기술 블로그`,
   description: `Blog posted about ...`,
   author: `Minsu`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `Front-End 개발자, 큰 문제는 작은 문제로 나누기, 커뮤니케이션 중시, 부족한 점을 채우기 `,
   siteUrl: `https://whitewolf23.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
