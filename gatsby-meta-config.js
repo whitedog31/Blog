@@ -3,10 +3,10 @@ module.exports = {
   description: `Blog posted about ...`,
   author: `Minsu`,
   introduction: `Front-End 개발자, 큰 문제는 작은 문제로 나누기, 커뮤니케이션 중시, 부족한 점을 채우기 `,
-  siteUrl: `https://whitewolf23.netlify.com`, // Your blog site url
+  siteUrl: `https://whitedog31.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `whitewolf23`, // Your GitHub account
+    github: `whitedog31`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
@@ -15,7 +15,7 @@ module.exports = {
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'whitewolf23/Blog', // Your repository for archive comment
+    utterances: 'whitedog31/Blog', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post

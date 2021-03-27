@@ -1,6 +1,6 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
+date: 2021-02-07 16:21:13
 lang: 'en'
 ---
 
@@ -10,7 +10,7 @@ lang: 'en'
 
 KIM MIN SU (rnfprhf60@gmail.com)
 
-Github : https://github.com/whitewolf23
+Github : https://github.com/whitedog31
 
 "**풀 수 있을 때까지, 나누어 생각하는 것을 좋아합니다."**
 
